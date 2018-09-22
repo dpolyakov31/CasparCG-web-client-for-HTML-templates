@@ -1,6 +1,6 @@
 # CasparCG-web-client-for-HTML-templates
 HTML TEMPLATES WEB CLIENT
-We created easy to use and minimalistic Web Client to play/edit/update your html templates on CasparCG server.
+We created easy to use and minimalistic Web Client to play/edit/update text content in your html templates  on CasparCG server.
 Web Client supports preview of HTML templates using browsers <iframe>, so you can control  templates behavior before going on Air.
  you can create playlists to organize titles order, move items inside playlist or append items to playlist.
  We using NodeJS web server to connect Web Client with CasparCG and manipulate file system.
